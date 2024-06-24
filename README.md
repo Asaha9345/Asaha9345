@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akash
-- 👀 I’m interested in mainly Development and data science as well
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning Deep learning
 - 📫 How to reach me asaha9345@gmail.com
 
 <!---
